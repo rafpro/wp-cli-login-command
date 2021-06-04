@@ -1,7 +1,7 @@
 {
-    "name": "aaemnnosttv/wp-cli-login-command",
+    "name": "rafpro/wp-cli-login",
     "description": "Log in to WordPress with secure passwordless magic links.",
-    "homepage": "https://github.com/aaemnnosttv/wp-cli-login-command",
+    "homepage": "https://github.com/rafpro/wp-cli-login-command",
     "license": "MIT",
     "authors": [
         {
@@ -20,7 +20,7 @@
         "classmap": [ "plugin" ]
     },
     "require": {
-        "php": "^5.6 || ^7.0",
+        "php": "^5.6 || ^7.0 || ^8.0",
         "composer/semver": "^1.0"
     },
     "require-dev": {
